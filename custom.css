@@ -1,8 +1,53 @@
 div {
-    border:1px solid rgba(0,0,0,0.1);
-    background: #9C9C9C;
-    text-align:center;
+    border: 0px solid #999;
+    background: transparent;
+    text-align: center;
 }
-.container-fluid, .container, .row{
-    background: #525252;
+
+.container-fluid,
+.container,
+.row {
+    background: transparent;
+}
+
+.container-fluid{
+    border: 1px solid #999;
+    margin-top: 20px;
+}
+
+body {
+    font-family: Century Gothic;
+    font-size: 12px;
+    color: #FF66CC;
+    background-color: #D9B59F;
+}
+
+img {
+    border: 0px solid #000;
+}
+
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100);
+}
+
+
+
+p {
+    background-color: #fff;
+    padding: 0px;
+    margin: 0 auto;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: inherit;
+}
+
+.box{
+    border: 12px solid #999;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
 }
