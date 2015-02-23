@@ -1,0 +1,147 @@
+
+.mainbox {
+height:350px;
+width:263px;
+left:279px;
+top:00px;
+position:absolute;
+background-position: center top;
+border: 4px #3399FF solid;
+
+background-image:url("http://data1.whicdn.com/images/30316600/tumblr_m5ewo0XEKw1qh71e5o1_500_large.jpg");
+}
+
+.navbox {
+-webkit-transform: rotate(-90deg); 
+-moz-transform: rotate(-90deg);
+height:250px;
+width:543px;
+left:401px;
+top:50px;
+position:absolute;
+border-radius: 5%;
+}
+
+
+#start {
+height:250px;
+width:461px;
+left:600px;
+top:90px;
+position:absolute;
+border: 2px #3399FF dotted;
+background-color:#FFFFFF; 
+font: 12px century gothic;
+color:#000000;
+overflow:auto;
+padding: 5px 5px 5px 5px}
+
+#titlething {
+left:63px;
+top:40px;
+position:fixed;
+font: 12px times new roman;
+}
+
+A:link, A:visited, A:active{color: #3399FF;font-size:10px; text-decoration:none;-webkit-transition: all 1s ease-out;-moz-transition: all 1s ease-out;-o-transition: all 1s ease-out;-ms-transition: all 1s ease-out;transition: all 1s ease-out;text-transform:none; border-bottom:1px dashed #999999;
+}
+a:hover{color: #000; }
+
+#navigation{
+display:inline-Block;
+height: 30px;
+width: 200px;
+font: 12px "Century Gothic";
+letter-spacing: 0px;
+color: #ffffff!important;
+text-decoration: none;
+background-color: #3399FF;
+cursor:crosshair;
+padding-top: 5px;
+}
+ 
+#navigation:hover{
+height: 30px;
+width: 200px;
+color: #000000 !important;
+background-color: #FFFFFF;
+opacity:0.8;
+cursor:crosshair;
+}
+
+h6 {
+   margin: 5px 0 0 0;
+   background-color: #3399FF;
+   padding: 0 3px 0 3px;
+   color: #000;
+   font-size: 9px;
+font-family: Arial;
+color: #000000; }
+
+
+describe {
+   border-bottom: 1px solid #000000;
+   padding-bottom: 10px;
+}
+.describe img {
+   background-color: #000;
+   border: 0px solid #000000;
+   padding: 1px;
+   height: 50px;
+   width: 50px;
+}
+.bspace {
+   margin-bottom: 5px;
+}
+
+.describe2 img {
+   background-color: #000;
+   border: 0px solid #000000;
+   padding: 1px;
+   height: 240px;
+   width: 160px;
+}
+
+describe2 {
+   border-bottom: 1px solid #3399FF;
+   padding-bottom: 10px;
+}
+
+
+h1{
+margin-top: 2px !important;
+font-size:40px !important;
+margin-bottom: -5px !important;
+text-transform:uppercase !important;
+font-family: bebas neue!important;
+letter-spacing: 5px !important;
+color: #3399FF !important;
+text-shadow: 0 0 5px  #666666!important;
+}
+
+h3{
+margin-top: 2px !important;
+font-size:45px !important;
+text-transform:uppercase !important;
+font-family: Monotype Corsiva!important;
+letter-spacing: 5px !important;
+color: #3399FF !important;
+text-shadow: 0 0 5px  #666666!important;
+}
+
+h2{
+margin-top: 2px !important;
+font-size:15px !important;
+text-transform:uppercase !important;
+font-family: pineappledelight !important;
+letter-spacing: 5px !important;
+color: #999999!important;
+}
+@font-face { font-family: "bebas neue"; src: url('http://static.tumblr.com/cvlbtjz/cnsln9tpp/bebasneue.otf'); }
+@font-face { font-family: "pineappledelight"; src: url('http://static.tumblr.com/1kdckk4/LAvlolf4m/pineappledelight.ttf'); }
+
+li {color: #3399FF; text-decoration: none; cursor: move; text-align:left;}
+ 
+ol {color: #3399FF; text-decoration: none; cursor: move;}
+ 
+ol p {color: #000000; text-decoration: none; cursor: move;}
